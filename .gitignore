@@ -1,0 +1,6 @@
+.env
+naukri_session/
+__pycache__/
+*.pyc
+resumes/modified_resume.docx
+resumes/modified_resume.pdf
